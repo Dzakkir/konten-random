@@ -1,0 +1,3 @@
+Jadwal upload konten
+ - sehari satu kali
+ - interval waktu 07.00-12.00 Wita

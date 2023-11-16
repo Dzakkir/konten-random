@@ -5,3 +5,5 @@ Jadwal upload konten
 jadwal desain konten
  - setiap 3 kali sehari
  - membuat 3 desain konten dalam satu waktu
+
+jadwal interaksi dengan user lain
